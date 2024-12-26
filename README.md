@@ -1,5 +1,4 @@
 # mi-sitio-web-carlos-sanchez-so2
-Repositorio para la tarea de GitHub Pages
 New Year Countdown
 Landing page that counts down from the current date to the next new year
 
